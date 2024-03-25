@@ -1,0 +1,1 @@
+randint(0,len(myList)-1)
